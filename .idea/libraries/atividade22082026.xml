@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="atividade22082026">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/q3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/q1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/q2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
